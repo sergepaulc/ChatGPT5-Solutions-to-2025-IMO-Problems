@@ -1,5 +1,3 @@
-Here’s what I can do rigorously right now, and I’ll be totally frank where I couldn’t push the argument through to completion yet.
-
 # Notation
 
 Let
