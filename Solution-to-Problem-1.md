@@ -118,6 +118,7 @@ $$
 These cover exactly the points of $T_n$ with $a\le n-k$. The uncovered set is precisely a translate of $T_k$. Consequently:
 
 > $$
+> k is achievable for given n⟺Tk​ can be covered by k sunny lines.
 > \text{\(k\) is achievable for given \(n\)}\iff \text{\(T_k\) can be covered by \(k\) sunny lines.}
 > $$
 
